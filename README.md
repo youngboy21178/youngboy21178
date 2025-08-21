@@ -19,7 +19,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-
+<div align="center">
 ### Web Scraping & Data  
 
 <div align="center">  
@@ -61,6 +61,7 @@
 </td></tr></table>  
 
 <br/>  
+</div>
 
 
 ## 🌐 Connect with me  
