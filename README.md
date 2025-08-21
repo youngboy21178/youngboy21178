@@ -67,16 +67,14 @@
 
 <div align="center">
 
-<a href="https://github.com/maksym-melnyk">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-</a>
+
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/your-linkedin">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/your-upwork-id">
-  <img src="https://img.icons8.com/color/48/upwork.png" height="40" alt="upwork" />
+<a href="https://www.upwork.com/freelancers/~01cbf126df863e77dd">
+  <img src="assets/upwork.png" height="40" alt="upwork" />
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/your_telegram">
