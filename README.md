@@ -65,11 +65,9 @@
 
 </div>
 
-##🌐 Connect with me
+## 🌐 Connect with me
 
 <div align="center">
-
-
 
 <a href="https://linkedin.com/in/your-linkedin">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
@@ -85,7 +83,6 @@
 
 </div>
 
-<br/>  
 
 
 ## Github Stats  
