@@ -69,12 +69,12 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/maksym-melnyk-59ba44370/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="100" alt="linkedin" />
 </a>
 
 <a href="https://www.upwork.com/freelancers/~01cbf126df863e77dd">
-  <img src="assets/upwork.png" height="100" alt="upwork" />
+  <img src="assets/upwork.svg" height="100" alt="upwork" />
 </a>
 
 <a href="https://t.me/maksymmdev">
