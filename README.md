@@ -63,16 +63,27 @@
 <br/>  
 
 
-## Connect with me  
+## 🌐 Connect with me  
+
 <div align="center">
-<a href="https://github.com/maksym-melnyk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://github.com/maksym-melnyk">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
 </a>
-</div>  
-  
+&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/your-upwork-id">
+  <img src="https://img.icons8.com/color/48/upwork.png" height="40" alt="upwork" />
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/your_telegram">
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="40" alt="telegram" />
+</a>
+
+</div>
 
 <br/>  
 
