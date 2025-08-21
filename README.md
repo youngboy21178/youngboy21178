@@ -65,7 +65,7 @@
 
 </div>
 
-<br>🌐 Connect with me</br>  
+##🌐 Connect with me
 
 <div align="center">
 
