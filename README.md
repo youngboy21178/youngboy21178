@@ -24,7 +24,7 @@
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://scrapy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg" alt="Scrapy" height="50" /></a>
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/playwright.svg" alt="Playwright" height="50" /></a>  
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/npm/v/playwright.svg" alt="Playwright" height="50" /></a>  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium.png" alt="Selenium" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>  
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib.png" alt="Matplotlib" height="50" /></a>  
