@@ -68,16 +68,16 @@
 <div align="center">
 
 
-&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/your-linkedin">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.upwork.com/freelancers/~01cbf126df863e77dd">
   <img src="assets/upwork.png" height="40" alt="upwork" />
 </a>
-&nbsp;&nbsp;
-<a href="https://t.me/your_telegram">
+
+<a href="https://t.me/maksymmdev">
   <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="40" alt="telegram" />
 </a>
 
