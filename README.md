@@ -70,15 +70,15 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="100" alt="linkedin" />
 </a>
 
 <a href="https://www.upwork.com/freelancers/~01cbf126df863e77dd">
-  <img src="assets/upwork.png" height="40" alt="upwork" />
+  <img src="assets/upwork.png" height="100" alt="upwork" />
 </a>
 
 <a href="https://t.me/maksymmdev">
-  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="40" alt="telegram" />
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="100" alt="telegram" />
 </a>
 
 </div>
