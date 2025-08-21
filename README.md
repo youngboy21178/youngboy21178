@@ -23,7 +23,7 @@
 ### Web Scraping & Data  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://scrapy.org/" target="_blank">![Scrapy](assets\scrapy.svg)</a>
+<a href="https://scrapy.org/" target="_blank">![Scrapy](assets/scrapy.svg)</a>
 <a href="https://playwright.dev/" target="_blank">🎭</a>  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium.png" alt="Selenium" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>  
