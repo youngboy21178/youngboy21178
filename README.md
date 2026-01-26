@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **custom web scrapers & data automation tools**  
 - 🌱 I’m currently learning **advanced proxy rotation, cloud integrations & scalable data pipelines**  
 - ❓ Ask me about anything related to **Python, Web Scraping, and Data Engineering**  
-- ⚡ Fun fact: I can scrape millions of records while keeping things fast & efficient 🚀  
   
 
 <br/>  
@@ -50,9 +49,6 @@
 
 ### Tools  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
