@@ -81,3 +81,290 @@
 ## Github Stats  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youngboy21178&theme=github-compact)
 
+### My Road Map for ML Engineer
+
+```json
+#set page(
+  fill: rgb("#0d1117"),
+  margin: 2cm
+)
+
+#set text(
+  fill: rgb("#c9d1d9"),
+  font: "JetBrains Mono"
+)
+
+#set heading(numbering: none)
+
+= Machine Learning Roadmap / Checklist
+
+Goal: Junior+ / Middle- ML Engineer
+
+```json
+{
+  "Step 1: Programming": {
+
+    "Python Basics": [
+      "[ ] variables and data types (int, float, str, bool)",
+      "[ ] lists, tuples, sets, dictionaries",
+      "[ ] loops (for / while)",
+      "[ ] conditions (if / else)",
+      "[ ] functions and lambda",
+      "[ ] list comprehensions",
+      "[ ] classes and OOP basics",
+      "[ ] modules and imports",
+      "[ ] virtual environments (venv / poetry)"
+    ],
+
+    "NumPy (numerical computing)": [
+      "[ ] array creation",
+      "[ ] array indexing and slicing",
+      "[ ] broadcasting",
+      "[ ] vectorized operations",
+      "[ ] matrix multiplication",
+      "[ ] random number generation",
+      "[ ] reshaping arrays"
+    ],
+
+    "Pandas (data analysis)": [
+      "[ ] Series vs DataFrame",
+      "[ ] loading data (csv, json)",
+      "[ ] indexing (.loc / .iloc)",
+      "[ ] filtering data",
+      "[ ] handling missing values",
+      "[ ] groupby operations",
+      "[ ] merging / joining datasets",
+      "[ ] feature creation",
+      "[ ] basic statistics"
+    ],
+
+    "Matplotlib (visualization)": [
+      "[ ] line plot",
+      "[ ] scatter plot",
+      "[ ] histogram",
+      "[ ] bar chart",
+      "[ ] subplots",
+      "[ ] axis labels",
+      "[ ] legends",
+      "[ ] saving figures"
+    ],
+
+    "Seaborn (ML visualization)": [
+      "[ ] correlation heatmap",
+      "[ ] distribution plots",
+      "[ ] pairplot",
+      "[ ] boxplot",
+      "[ ] categorical plots"
+    ],
+
+    "SQL": [
+      "[ ] SELECT",
+      "[ ] WHERE filtering",
+      "[ ] ORDER BY",
+      "[ ] GROUP BY",
+      "[ ] aggregate functions (COUNT, AVG, SUM)",
+      "[ ] JOIN (INNER / LEFT)",
+      "[ ] subqueries",
+      "[ ] window functions (basic understanding)"
+    ],
+
+    "Algorithms & Complexity": [
+      "[ ] what is algorithm",
+      "[ ] time complexity (Big O)",
+      "[ ] arrays",
+      "[ ] hash tables",
+      "[ ] sorting basics"
+    ]
+  },
+
+  "Step 2: Mathematics": {
+
+    "Linear Algebra": [
+      "[ ] vectors",
+      "[ ] matrices",
+      "[ ] matrix multiplication",
+      "[ ] dot product",
+      "[ ] linear independence",
+      "[ ] eigenvectors intuition",
+      "[ ] why matrices are used in ML"
+    ],
+
+    "Calculus": [
+      "[ ] functions",
+      "[ ] derivatives",
+      "[ ] partial derivatives",
+      "[ ] gradients",
+      "[ ] intuition of gradient descent"
+    ],
+
+    "Optimization": [
+      "[ ] loss functions",
+      "[ ] gradient descent",
+      "[ ] learning rate impact",
+      "[ ] local vs global minima"
+    ],
+
+    "Statistics & Probability": [
+      "[ ] mean",
+      "[ ] median",
+      "[ ] variance",
+      "[ ] standard deviation",
+      "[ ] probability basics",
+      "[ ] normal distribution",
+      "[ ] conditional probability"
+    ]
+  },
+
+  "Step 3: Classical Machine Learning": {
+
+    "ML Fundamentals": [
+      "[ ] supervised learning",
+      "[ ] unsupervised learning",
+      "[ ] regression vs classification",
+      "[ ] overfitting",
+      "[ ] underfitting",
+      "[ ] bias vs variance",
+      "[ ] ML pipeline"
+    ],
+
+    "Data Preprocessing": [
+      "[ ] handling missing data",
+      "[ ] categorical encoding (one-hot / label)",
+      "[ ] feature scaling (standardization / normalization)",
+      "[ ] feature engineering",
+      "[ ] feature selection"
+    ],
+
+    "EDA (Exploratory Data Analysis)": [
+      "[ ] distribution analysis",
+      "[ ] correlation matrix",
+      "[ ] outlier detection",
+      "[ ] feature relationships"
+    ],
+
+    "Linear Models": [
+      "[ ] linear regression",
+      "[ ] logistic regression",
+      "[ ] L1 regularization (Lasso)",
+      "[ ] L2 regularization (Ridge)"
+    ],
+
+    "Distance Based Models": [
+      "[ ] KNN algorithm",
+      "[ ] distance metrics",
+      "[ ] choosing K"
+    ],
+
+    "Clustering": [
+      "[ ] K-Means",
+      "[ ] hierarchical clustering",
+      "[ ] silhouette score",
+      "[ ] cluster interpretation"
+    ],
+
+    "Decision Trees": [
+      "[ ] tree splitting logic",
+      "[ ] entropy",
+      "[ ] gini impurity",
+      "[ ] tree depth"
+    ],
+
+    "Ensemble Methods": [
+      "[ ] Random Forest",
+      "[ ] Gradient Boosting",
+      "[ ] XGBoost",
+      "[ ] LightGBM",
+      "[ ] stacking"
+    ],
+
+    "Evaluation Metrics": [
+      "[ ] confusion matrix",
+      "[ ] accuracy",
+      "[ ] precision",
+      "[ ] recall",
+      "[ ] F1 score",
+      "[ ] ROC curve",
+      "[ ] ROC-AUC",
+      "[ ] regression metrics (MAE / MSE / RMSE)"
+    ],
+
+    "Model Validation": [
+      "[ ] train/test split",
+      "[ ] cross validation",
+      "[ ] grid search",
+      "[ ] random search"
+    ],
+
+    "Imbalanced Data": [
+      "[ ] class imbalance",
+      "[ ] SMOTE",
+      "[ ] class weights",
+      "[ ] choosing correct metrics"
+    ]
+  },
+
+  "Step 4: Deep Learning": {
+
+    "Neural Network Basics": [
+      "[ ] perceptron",
+      "[ ] dense layers",
+      "[ ] forward propagation",
+      "[ ] activation functions (ReLU, Sigmoid, Tanh)"
+    ],
+
+    "Optimizers": [
+      "[ ] SGD",
+      "[ ] Adam",
+      "[ ] RMSProp",
+      "[ ] learning rate scheduling"
+    ],
+
+    "Hyperparameters": [
+      "[ ] learning rate",
+      "[ ] batch size",
+      "[ ] number of layers",
+      "[ ] number of neurons",
+      "[ ] epochs"
+    ],
+
+    "Regularization": [
+      "[ ] dropout",
+      "[ ] batch normalization",
+      "[ ] early stopping"
+    ],
+
+    "Frameworks": [
+      "[ ] PyTorch tensors",
+      "[ ] building a model",
+      "[ ] training loop",
+      "[ ] loss functions",
+      "[ ] saving models"
+    ]
+  },
+
+  "Step 5: Practical Skills": {
+
+    "Scikit-learn": [
+      "[ ] model training",
+      "[ ] pipelines",
+      "[ ] preprocessing tools",
+      "[ ] model evaluation"
+    ],
+
+    "Projects": [
+      "[ ] classification project",
+      "[ ] regression project",
+      "[ ] clustering project",
+      "[ ] deep learning project"
+    ],
+
+    "Portfolio": [
+      "[ ] GitHub repository",
+      "[ ] clear README",
+      "[ ] dataset explanation",
+      "[ ] model explanation",
+      "[ ] evaluation metrics"
+    ]
+  }
+}
+```
