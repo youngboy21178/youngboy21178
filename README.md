@@ -84,23 +84,6 @@
 ### My Road Map for ML Engineer
 
 ```json
-#set page(
-  fill: rgb("#0d1117"),
-  margin: 2cm
-)
-
-#set text(
-  fill: rgb("#c9d1d9"),
-  font: "JetBrains Mono"
-)
-
-#set heading(numbering: none)
-
-= Machine Learning Roadmap / Checklist
-
-Goal: Junior+ / Middle- ML Engineer
-
-```json
 {
   "Step 1: Programming": {
 
