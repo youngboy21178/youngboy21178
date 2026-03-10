@@ -88,15 +88,15 @@
   "Step 1: Programming": {
 
     "Python Basics": [
-      "[ ] variables and data types (int, float, str, bool)",
-      "[ ] lists, tuples, sets, dictionaries",
-      "[ ] loops (for / while)",
-      "[ ] conditions (if / else)",
-      "[ ] functions and lambda",
-      "[ ] list comprehensions",
-      "[ ] classes and OOP basics",
-      "[ ] modules and imports",
-      "[ ] virtual environments (venv / poetry)"
+      "[🟢] variables and data types (int, float, str, bool)",
+      "[🟢] lists, tuples, sets, dictionaries",
+      "[🟢] loops (for / while)",
+      "[🟢] conditions (if / else)",
+      "[🟢] functions and lambda",
+      "[🟢] list comprehensions",
+      "[🟢] classes and OOP basics",
+      "[🟢] modules and imports",
+      "[🟢] virtual environments (venv / poetry)"
     ],
 
     "NumPy (numerical computing)": [
@@ -141,12 +141,12 @@
     ],
 
     "SQL": [
-      "[ ] SELECT",
-      "[ ] WHERE filtering",
-      "[ ] ORDER BY",
-      "[ ] GROUP BY",
-      "[ ] aggregate functions (COUNT, AVG, SUM)",
-      "[ ] JOIN (INNER / LEFT)",
+      "[🟢] SELECT",
+      "[🟢] WHERE filtering",
+      "[🟢] ORDER BY",
+      "[🟢] GROUP BY",
+      "[🟢] aggregate functions (COUNT, AVG, SUM)",
+      "[🟢] JOIN (INNER / LEFT)",
       "[ ] subqueries",
       "[ ] window functions (basic understanding)"
     ],
@@ -163,9 +163,9 @@
   "Step 2: Mathematics": {
 
     "Linear Algebra": [
-      "[ ] vectors",
-      "[ ] matrices",
-      "[ ] matrix multiplication",
+      "[🟢] vectors",
+      "[🟢] matrices",
+      "[🟢] matrix multiplication",
       "[ ] dot product",
       "[ ] linear independence",
       "[ ] eigenvectors intuition",
