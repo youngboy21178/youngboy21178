@@ -2,42 +2,50 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Maksym, a Python Developer focused on data pipelines, automation & analytics 👨‍💻 currently looking for a junior / internship role 🚀</div>
+### <div align="center">I'm Maksym, a Python Developer focused on automation, AI integration & data pipelines 👨‍💻 currently open to junior / internship roles 🚀</div>
 
 - 🎓 Computer Science student at STU Bratislava
-- 🔭 I'm currently building **data pipelines, dashboards, and automation tools with Python**
-- 🌱 I'm currently learning **SQL for analytics, cloud integrations & scalable data pipelines**
-- 💼 Open to **junior Data Analyst / Python Developer / Automation Engineer** roles (Bratislava & remote)
-- ❓ Ask me about anything related to **Python, data analysis, and automation**
+- 🔭 I'm currently building **LLM-powered microservices, Power Automate + Python hybrid workflows, and BI dashboards**
+- 🤖 I use **AI-assisted / agentic coding tools (Claude Code)** daily as part of my real development workflow
+- 🌱 I'm currently learning **the `uv` toolchain and cloud deployment (Azure)**
+- 💼 Open to **Python Developer / Automation / Data & AI** roles (Bratislava & remote)
+- ❓ Ask me about anything related to **Python, automation, data pipelines, and AI integration**
 
 <br/>
 
 ## My Skill Set
 <div align="center">
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
-### Data & Analysis
+### Backend & APIs
 <div align="center">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="assets/pandas.svg" alt="Pandas" height="50" /></a>
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="assets/matplotlib-seeklogo.svg" alt="Matplotlib" height="50" /></a>
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="assets/playwright-logo.svg" alt="Playwright" height="50"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-icon.svg" alt="Docker" height="50" /></a>
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
-### Backend & Databases
+### Data & Automation
+<div align="center">
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="assets/pandas.svg" alt="Pandas" height="50" /></a>
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="assets/playwright-logo.svg" alt="Playwright" height="50"/></a>
+<a href="https://powerautomate.microsoft.com/" target="_blank"><img style="margin: 10px" src="assets/power-automate.svg" alt="Power Automate" height="50"/></a>
+</div>
+</td><td valign="top" width="25%">
+
+### Databases & BI
 <div align="center">
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="assets/sqlite-icon.svg" alt="SQLite" height="50" /></a>
-<a href="https://www.json.org/" target="_blank"><img style="margin: 10px" src="assets/json.svg" alt="JSON" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="assets/power-bi.svg" alt="Power BI" height="50"/></a>
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Tools
 <div align="center">
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr></table>
 <br/>
@@ -45,7 +53,7 @@
 
 ## 📌 Featured Project
 
-**[LinkedIn Job Market Analyzer](https://github.com/youngboy21178/AI-Powered-Job-Market-Data-Analyzer)** — an end-to-end analytics pipeline: scraped 500+ job postings, used a local LLM to extract structured skill/salary data, and analyzed the results with Pandas + Matplotlib to surface in-demand skills and salary trends.
+**[Invoice / Report Automation Workflow](https://github.com/youngboy21178/Invoice-Report-Automation)** — a Power Automate + FastAPI hybrid workflow: watches a SharePoint folder, validates and aggregates incoming reports via a Dockerized Python microservice with row-level error reporting, and routes structured summaries into automated email notifications.
 
 ## 🌐 Connect with me
 <div align="center">
